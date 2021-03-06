@@ -24,5 +24,13 @@ In order to test open the console and run the following:
 If you have any questions contact me on [GitHub](https://github.com/rroman6292) or contact 
  at 
 ![picture](https://github.com/rroman6292.png?size=80)
+
+
+
+![](public/notetaker1.jpeg)
+
+
+
+![](public/notetaker2.jpeg)
     
  
